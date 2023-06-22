@@ -11,11 +11,11 @@ The Furniture Store API offers the following features:
     Filtering: Filter products based on various attributes such as price range, color, material, etc.
     Sorting: Sort products based on price, popularity, or other attributes.
     Pagination: Retrieve products in paginated form to efficiently handle large datasets.
-Error Handling
 
-The API
-
+Demo Video:
 https://github.com/Pranshu1sati/FurnitureStoreApi/assets/95905172/8b5e31c4-6349-4c5e-8e7f-653e60990f15
 
- handles errors gracefully and provides appropriate error responses in case of invalid requests, authentication failures, or other issues. Error responses include relevant status codes and error messages to assist in troubleshooting.
+Error Handling
+
+The API handles errors gracefully and provides appropriate error responses in case of invalid requests, authentication failures, or other issues. Error responses include relevant status codes and error messages to assist in troubleshooting.
 
