@@ -13,5 +13,9 @@ The Furniture Store API offers the following features:
     Pagination: Retrieve products in paginated form to efficiently handle large datasets.
 Error Handling
 
-The API handles errors gracefully and provides appropriate error responses in case of invalid requests, authentication failures, or other issues. Error responses include relevant status codes and error messages to assist in troubleshooting.
+The API
+
+https://github.com/Pranshu1sati/FurnitureStoreApi/assets/95905172/8b5e31c4-6349-4c5e-8e7f-653e60990f15
+
+ handles errors gracefully and provides appropriate error responses in case of invalid requests, authentication failures, or other issues. Error responses include relevant status codes and error messages to assist in troubleshooting.
 
